@@ -28,11 +28,12 @@ a {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  
+  padding: 8px;
 }
 ul {
   display: flex;
+  gap: 8px;
+  padding: 0px;
 }
 
-ul {
- padding: 0px 
-}
