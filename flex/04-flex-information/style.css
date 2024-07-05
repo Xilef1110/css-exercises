@@ -25,7 +25,7 @@ img {
   background: #eee;
 }
 
-/*Solution*/
+/*My Solution
 
 .title {
   display: flex;
@@ -46,4 +46,25 @@ img {
 }
 .text {
   text-align: center;
+}
+*/
+
+/* SOLUTION */
+
+body {
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 32px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.item {
+  max-width: 200px;
 }
