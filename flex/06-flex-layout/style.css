@@ -35,8 +35,10 @@ ul {
   list-style-type: none;
 }
 
-.body{
+body {
   display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 .header{
   display: flex;
@@ -52,4 +54,9 @@ ul {
   background-color: #eee;
   display: flex;
   justify-content: space-between;
+}
+
+.left-links, .right-links {
+  display: flex;
+  gap: 10px;
 }
