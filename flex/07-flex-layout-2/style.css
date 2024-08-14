@@ -59,3 +59,13 @@ body{
   justify-content: center;
   align-items: center;
 }
+a {
+  text-decoration: none;
+  color: #FFF;
+  font-size: 32px;
+  list-style:none;
+}
+ul{
+  list-style: none;
+  padding: 0px;
+}
