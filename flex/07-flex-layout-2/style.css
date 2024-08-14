@@ -48,3 +48,6 @@ body{
   flex: 0 0 300px;
   padding: 16px;
 }
+.card{
+  flex-basis: 400px;
+}
