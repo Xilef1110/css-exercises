@@ -39,8 +39,12 @@ body{
 }
 .content{
   display: flex;
+  flex-wrap: wrap;
+  padding: 32px;
+  gap: 32px;
 }
 
 .sidebar{
   flex: 0 0 300px;
+  padding: 16px;
 }
