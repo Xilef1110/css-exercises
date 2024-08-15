@@ -56,16 +56,21 @@ body{
   font-size: 32px;
   font-weight: 900;
   display: flex;
-  justify-content: center;
   align-items: center;
+  padding-left: 16px;
 }
 a {
   text-decoration: none;
   color: #FFF;
-  font-size: 32px;
+  font-size: 24px;
   list-style:none;
 }
 ul{
   list-style: none;
   padding: 0px;
+}
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
